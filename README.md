@@ -5,5 +5,6 @@ thx help from Nikolas#5412 from discord, he really give me a help
 
 # Usage:
 put ur steam profile name and username in approiate space
+generated id will be store it 'ids.txt' in same directory
 
 ## END
