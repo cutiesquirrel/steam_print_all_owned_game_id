@@ -1,5 +1,3 @@
-# steam_print_all_owned_game_id
-
 code modify from [here](https://itectec.com/game/steam-how-to-get-a-list-of-the-app-ids-of-all-games-in-the-library/)
 getting all id for some random purpose
 
