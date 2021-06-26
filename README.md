@@ -4,4 +4,6 @@ getting all id for some random purpose
 thx help from Nikolas#5412 from discord
 
 # Usage:
-put ur steam profile name and username in approiate space thx
+put ur steam profile name and username in approiate space
+
+## END
