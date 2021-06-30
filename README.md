@@ -8,8 +8,8 @@ put ur steam profile name and username in approiate space
 generated id will be store it 'ids.txt' in same directory
 
 ## END
-
-`               _    _                           _                   _ 
+```
+               _    _                           _                   _ 
               | |  (_)                         (_)                 | |
    ___  _   _ | |_  _   ___  ___   __ _  _   _  _  _ __  _ __  ___ | |
   / __|| | | || __|| | / _ \/ __| / _` || | | || || '__|| '__|/ _ \| |
@@ -17,4 +17,4 @@ generated id will be store it 'ids.txt' in same directory
   \___| \__,_| \__||_| \___||___/ \__, | \__,_||_||_|   |_|   \___||_|
                                      | |                              
                                      |_|                              
-`
+```
